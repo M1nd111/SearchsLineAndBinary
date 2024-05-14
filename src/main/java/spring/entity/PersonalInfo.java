@@ -16,10 +16,10 @@ import java.time.LocalTime;
 @Embeddable
 public class PersonalInfo {
 
-    @Column(name = "firstname")
+    @Column(name = "firstname", nullable = false)
     private String firstname;
-    @Column(name = "name")
+    @Column(name = "name", nullable = false)
     private String name;
-    @Column(name = "lastname")
+    @Column(name = "lastname", nullable = false)
     private String lastname;
 }

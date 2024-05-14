@@ -10,7 +10,7 @@ public class GenerateTime {
 
         int h = random.nextInt(24);
         int m = random.nextInt(60);
-        //int s = random.nextInt(60);
+        int s = random.nextInt(60);
 
         return LocalTime.of(h,m);
     }

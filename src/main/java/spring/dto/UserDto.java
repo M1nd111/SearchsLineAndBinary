@@ -7,7 +7,7 @@ public record UserDto(
         LocalTime time,
         String firstname,
         String name, String lastname,
-        Long mark_id,
+        String mark_id,
         Long application_number
 ) {
 }

@@ -1,15 +1,13 @@
 /*
 package spring.Hellper;
 
-import entity.Buyer;
-import exception.DaoException;
-import jdbc.ConnectionManager;
-
 import java.sql.SQLException;
 import java.time.LocalTime;
 import java.util.List;
 
 public class ClearingAndFillingSQL {
+*/
+/**//*
 
     private final static  String DELETE_ALL_ROWS_SQL = """
                                             DELETE FROM trening.%s

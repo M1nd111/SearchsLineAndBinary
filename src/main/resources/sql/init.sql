@@ -11,9 +11,9 @@ CREATE TABLE IF NOT EXISTS user
     time TIME,
     firstname VARCHAR(100) NOT NULL ,
     name VARCHAR(100) NOT NULL ,
-    lastname VARCHAR(100),
-    mark_id BIGINT REFERENCES mark(id),
-    application_number BIGINT NOT NULL UNIQUE
+    lastname VARCHAR(100) not null ,
+    mark_name VARCHAR(100) not null ,
+    application_number BIGINT NOT NULL
 );
 
 DROP TABLE user;
