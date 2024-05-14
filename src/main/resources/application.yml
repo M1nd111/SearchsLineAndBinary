@@ -1,0 +1,38 @@
+db:
+  username: root
+  password: Root89
+
+  driver: MySqlDriver
+
+  url: jdbc:mysql://localhost:3306
+  host: localhost,127.0.0.1
+
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/springdata
+    username: root
+    password: Root89
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+        hbm2ddl:
+          auto: validate
+        cache:
+          use_second_level_cache: true
+          region_prefix: org.hibernate.cache.jcache.internal.JCacheRegionFactory
+
+
+
+logging:
+  level:
+    root: warn
+  file:
+    name:
+      loggFile
+    path: /
+
+

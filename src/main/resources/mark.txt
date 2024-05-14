@@ -1,0 +1,81 @@
+Mercedes-Benz
+BMW
+Audi
+Volkswagen
+Toyota
+Honda
+Nissan
+Ford
+Chevrolet
+Lexus
+Subaru
+Kia
+Hyundai
+Mazda
+Volvo
+Infiniti
+Mitsubishi
+Jeep
+Renault
+Peugeot
+Citroën
+Suzuki
+Chery
+Skoda
+Lada
+Dodge
+Lincoln
+Acura
+Land Rover
+Porsche
+Bentley
+Ferrari
+Lamborghini
+McLaren
+Rolls-Royce
+Jaguar
+Tesla
+Aston Martin
+Mini
+Fiat
+Alfa Romeo
+Cadillac
+Chrysler
+Maserati
+Smart
+Dacia
+Seat
+Opel
+Vauxhall
+MG
+Tata
+Mahindra
+Isuzu
+SsangYong
+Great Wall
+Bugatti
+Pagani
+Koenigsegg
+Hennessey
+Rimac
+Karma
+Rivian
+Lucid
+Polestar
+Byton
+Genesis
+Maybach
+Bollinger
+Fisker
+Aptera
+Nikola
+Lordstown Motors
+Faraday Future
+Canoo
+Elio
+Arcimoto
+VinFast
+Proterra
+Karma Automotive
+Arrival
+Bremach
